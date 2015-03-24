@@ -33,7 +33,7 @@ libmySQL.dll放扫描器目录
 
 Scan_Mongodb插件:
 Scan_Mongodb.cpp插件代码里面没有类似conn.close()这种代码,写的时候都没找到有调用，如有其他方法，请告知。
-#所有用了"#define	TIMEOUT				10000"扫描超时进行退出
+PS:所以用了"#define	TIMEOUT				10000"扫描超时进行退出
 Scan_Mongodb.cpp 编译以及扫描的时候都需要mongoclient.dll文件
 Scan_Mongodb源码机器编译好的插件及其mongoclient.dll
 http://yunpan.cn/cZEkM7Yt2LKV7 （提取码：d43f）
