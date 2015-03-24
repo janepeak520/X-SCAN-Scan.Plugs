@@ -20,7 +20,8 @@ http://www.xfocus.net/tools/200609/1188.html
 
 站长大牛的肩上ph4_yunshu
 
-Crack_Mysql.cpp插件代码是在ph4_yunshu的基础上面稍微改了改编译通过的
+Crack_Mysql插件:
+Crack_Mysql.cpp插件代码是在ph4_yunshu的基础上面稍微改动编译通过的
 Crack_Mysql.cpp 编译以及扫描的时候都需要libmySQL.dll文件
 Crack_Mysql源码机器编译好的插件及其libmySQL.dll
 http://yunpan.cn/cZEMIp5SkkcKJ （提取码：a280）
